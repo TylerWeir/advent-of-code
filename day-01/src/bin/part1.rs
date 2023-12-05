@@ -1,4 +1,4 @@
-/// Solution for Advent of Code 2023, day 1.
+/// Solution for Advent of Code 2023, day 1, part 1.
 ///
 /// Refactor heavily supported by: https://www.youtube.com/watch?v=JOgQMjpGum0
 
